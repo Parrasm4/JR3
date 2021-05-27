@@ -1,0 +1,24 @@
+.nav-link {
+  display: inline-flex;
+}
+
+.headImg {
+  height: 800px;
+  background-image: url("img/header.jpg");
+}
+
+h3 {
+  text-align: center;
+}
+
+.neighbor {
+  display: inline-flex;
+}
+
+.top {
+  display: inline-block;
+}
+
+.repeat {
+  display: inline-flexbox;
+}
